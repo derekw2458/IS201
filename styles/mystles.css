@@ -1,0 +1,25 @@
+/*! Derek Winslow - Edited: 04/08/2022 */
+.categories {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+a {
+    font-style: italic;
+    /*!text-decoration: underline*/
+}
+
+.ttl {
+    font-size: small;
+    text-decoration: underline;
+}
+
+.pic{
+    background-color: antiquewhite;
+}
+
+.btt {
+    position: fixed;
+}
